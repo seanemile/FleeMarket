@@ -3,3 +3,4 @@ out/
 testing/
 .env
 lib/
+lib/openzeppelin-contracts
